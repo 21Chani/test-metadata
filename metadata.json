@@ -1,8 +1,5 @@
 {
     "name": "Chani NFTTT",
     "symbol": "CNFT",
-    "description": "Chani is beatifu",
-    "seller_fee_basis_points": 500, 
-
     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT62iPsf4eg1YHuGNzeOEE1e5v-WFiQ1kPK4fcN0D1h4kFtSth-"
 }
